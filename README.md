@@ -1,4 +1,5 @@
-### vim-file-types
+vim-file-types
+==============
 
 File type plugin for vim.
 
